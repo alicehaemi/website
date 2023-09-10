@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a4f534f2.css",
+    "main.js": "/static/js/main.6053bbac.js",
+    "static/js/787.1f11dfe9.chunk.js": "/static/js/787.1f11dfe9.chunk.js",
+    "static/media/folder.png": "/static/media/folder.ab1273f02ca1d7a0970b.png",
+    "static/media/headshot.JPG": "/static/media/headshot.e4b27da1c2445c2ac34c.JPG",
+    "static/media/SAM_1054.JPG": "/static/media/SAM_1054.7378e2ec86de14a24c90.JPG",
+    "static/media/SAM_1108.JPG": "/static/media/SAM_1108.aad086c2d6c89dc73991.JPG",
+    "static/media/SAM_1075.JPG": "/static/media/SAM_1075.2577d3a80ffebc350f7a.JPG",
+    "static/media/SAM_1088.JPG": "/static/media/SAM_1088.c95a2587239c68615207.JPG",
+    "static/media/SAM_1055.JPG": "/static/media/SAM_1055.6cedda213ef73d167a26.JPG",
+    "static/media/SAM_1057.JPG": "/static/media/SAM_1057.bcf1cea77f4dd4f349ef.JPG",
+    "static/media/FreeSansBold.otf": "/static/media/FreeSansBold.fde643d7ca5df74f9054.otf",
+    "static/media/5.png": "/static/media/5.7d3dd0b8a12c4c5a5631.png",
+    "static/media/logo.png": "/static/media/logo.edae21b92917eba64ae7.png",
+    "static/media/Louis George Cafe.ttf": "/static/media/Louis George Cafe.eacd87871e9a39013626.ttf",
+    "static/media/6.png": "/static/media/6.01a79a340b5a0edb5e35.png",
+    "static/media/backg.png": "/static/media/backg.be7ea0b5df42b7165080.png",
+    "static/media/GesturaDisplayTRIAL-LightItalic-BF64b755042916b.otf": "/static/media/GesturaDisplayTRIAL-LightItalic-BF64b755042916b.ffe4f2762976a12b4d02.otf",
+    "static/media/apps.png": "/static/media/apps.1b75f42535ad35696f1a.png",
+    "static/media/sparkle.png": "/static/media/sparkle.1d35d1091b9d902945a6.png",
+    "index.html": "/index.html",
+    "main.a4f534f2.css.map": "/static/css/main.a4f534f2.css.map",
+    "main.6053bbac.js.map": "/static/js/main.6053bbac.js.map",
+    "787.1f11dfe9.chunk.js.map": "/static/js/787.1f11dfe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4f534f2.css",
+    "static/js/main.6053bbac.js"
+  ]
+}
