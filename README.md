@@ -7,5 +7,5 @@ Utilized:
 * CSS
 * MUI
 * Canva
-* Friends... for hosting and deploying website
+* Friends... for hosting and deploying the website
 * Lots of caffeine
