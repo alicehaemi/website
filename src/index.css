@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: "myFirstFont";
+  src: url("./fonts/GesturaDisplayTRIAL-LightItalic-BF64b755042916b.otf");
+}
+
+.container {
+  display: flex;
+}
+
+@font-face {
+  font-family: "louis";
+  src: url("./fonts/Louis George Cafe.ttf");
+}
+
+@font-face {
+  font-family: "freesans";
+  src: url("./fonts/FreeSansBold.otf");
+}
+
+.container {
+  display: flex;
+}
+
+.circle1 {
+  height: 15px;
+  width: 15px;
+  margin-top: 7px;
+  margin-left:7px;
+  margin-bottom: 7px;
+  background-color: rgb(251, 95, 95);
+  border-radius: 50%;
+}
+.circle2 {
+  height: 15px;
+  width: 15px;
+  margin-top: 7px;
+  margin-left:7px;
+  margin-bottom: 7px;
+  background-color: rgb(251, 212, 95);
+  border-radius: 50%;
+}
+.circle3 {
+  height: 15px;
+  width: 15px;
+  margin-top: 7px;
+  margin-left:7px;
+  margin-bottom: 7px;
+  background-color: rgb(56, 218, 64);
+  border-radius: 50%;
+}
