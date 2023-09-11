@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import "./App.css";
 import Box from "@mui/material/Box";
 import Stack from "@mui/material/Stack";
@@ -16,6 +16,7 @@ import Photography from "./components/Photography";
 import Contacts from "./components/Contacts";
 import Introduction from "./components/Introduction";
 import Work from "./components/Work";
+import useEnhancedEffect from "@mui/material/utils/useEnhancedEffect";
 
 const flashcard_component = [
   {
@@ -39,6 +40,10 @@ const flashcard_component = [
 ];
 
 function App() {
+  useEffect(() => {
+    document.title = "Alice Lee";
+  }, []);
+
   const [flashcards, setFlashcards] = useState(flashcard_component);
 
   const shapes={
