@@ -1,5 +1,5 @@
 # Personal Website 
-[Link](alicelee.vercel.app) to Personal Website
+[Link](https://alicelee.vercel.app) to Personal Website
 
 Utilized:
 * React
